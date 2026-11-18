@@ -1,5 +1,5 @@
-# restauranteEstranho
-Esse é um trabalho que foi pedido para ser feito em 3h durante uma aula. Programação Estrutura.
+# Restaurante em C-Lang
+This one is a college project that was supposed to be done at a 2 hours class.
 
--> gcc mainMuriloH.c -o main.exe ||
-para compilar
+Compile it using:
+-> gcc main.c -o main.exe 
